@@ -14,7 +14,7 @@ $tempColumns = array(
 			'items'              => Array(
 				Array('', 0),
 			),
-			'fileFolder'         => 'EXT:ds_page_icon/Resources/Public/Icons',
+			'fileFolder'         => 'EXT:ds_page_icon/Resources/Public/Icons/page',
 			'fileFolder_extList' => 'png',
 			'selicon_cols'       => 8,
 			'iconsInOptionTags'  => 1, // doesn't display but...
