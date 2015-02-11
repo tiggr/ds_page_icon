@@ -3,8 +3,6 @@ if (!defined('TYPO3_MODE')) {
 	die ('Access denied.');
 }
 
-t3lib_div::loadTCA('pages');
-
 $tempColumns = array(
 	'tx_dspageicon_icon' => array(
 		'exclude' => 0,
