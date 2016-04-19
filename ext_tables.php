@@ -22,8 +22,8 @@ $tempColumns = array(
 	)
 );
 
-t3lib_extMgm::addTCAcolumns('pages', $tempColumns, 1);
-t3lib_extMgm::addFieldsToPalette(
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns('pages', $tempColumns, 1);
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addFieldsToPalette(
 	'pages',
 	'layout',
 	'--linebreak--, tx_dspageicon_icon;;;;1-1-1',
