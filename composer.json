@@ -1,0 +1,17 @@
+{
+  "name": "davitec/ds-page-icon",
+  "type": "typo3-cms-extension",
+  "description": "Extends pages w/ menu icons",
+  "homepage": "https://matthies.de",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "require": {
+    "typo3/cms-core": ">=7.6"
+  },
+  "replace": {
+    "ds_page_icon": "self.version"
+  },
+  "extra": {
+  }
+}
