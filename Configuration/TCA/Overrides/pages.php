@@ -15,7 +15,6 @@ $tempColumns = array(
             'fileFolder'         => 'EXT:ds_page_icon/Resources/Public/Icons/page',
             'fileFolder_extList' => 'png',
             'selicon_cols'       => 8,
-            'iconsInOptionTags'  => 1, // doesn't display but...
             'size'               => 1,
             'maxitems'           => 1,
         )
