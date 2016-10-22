@@ -17,6 +17,7 @@ $tempColumns = array(
             'selicon_cols'       => 8,
             'size'               => 1,
             'maxitems'           => 1,
+            'renderType'         => 'selectSingle'
         )
     )
 );
